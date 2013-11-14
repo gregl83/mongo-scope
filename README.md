@@ -1,4 +1,4 @@
-mongo-scopify
-=============
+mongo-scope
+===========
 
-A wrapper that allows for complex object instances to be passed into the mongo-native-driver scope option.
+A mongo-native-driver scope constructor that enables use of complex object instances in map reduce functions.

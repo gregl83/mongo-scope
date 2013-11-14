@@ -1,0 +1,21 @@
+{
+  "author": {
+    "name": "Gregory Langlais",
+    "email": "general@gregorylanglais.com"
+  },
+  "name": "mongo-scope",
+  "description": "A mongo-native-driver scope constructor that enables use of complex object instances in map reduce functions.",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gregl83/mongo-scope.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "1.12.x"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}

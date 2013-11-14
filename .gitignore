@@ -1,0 +1,9 @@
+.project
+.DS_Store
+.settings
+.idea
+node_modules
+tools
+npm-debug.log
+logs
+/sinon-require.iml
